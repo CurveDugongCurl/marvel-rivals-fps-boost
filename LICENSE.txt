@@ -19,3 +19,23 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
+## 📥 How to Download
+
+1. Go to the [**Releases**](../../releases/latest) tab (top right of this page, or click the button below)
+2. Download the latest `.zip` file
+3. Extract it to any folder
+4. Run `MarvelRivalsFPSBoost.exe` as Administrator
+
+[![Download Latest Version](https://img.shields.io/badge/⬇️%20Download%20Now%20--%20Latest%20Release-FF0000?style=for-the-badge)](../../releases/latest)
+
+---
+
+## 🛠️ How to Use
+
+```
+1. Close Marvel Rivals completely before running the tool
+2. Run MarvelRivalsFPSBoost.exe as Administrator
+3. Choose your optimization profile (Low / Medium / High / Extreme)
+4. Click "Apply Optimizations"
+5. Launch Marvel Rivals and enjoy higher FPS
+```
