@@ -235,3 +235,4 @@ This project is licensed under the **MIT License** — see [LICENSE](LICENSE) fo
 `marvel rivals fps boost` · `marvel rivals performance optimizer` · `marvel rivals low fps fix` · `marvel rivals stutter fix` · `marvel rivals lag fix` · `marvel rivals optimization guide` · `marvel rivals settings for fps` · `boost fps marvel rivals pc` · `marvel rivals high fps settings` · `marvel rivals fps cap remove`marvel rivals fps boost mod  marvel rivals mods
 
 </div>
+ 1593
